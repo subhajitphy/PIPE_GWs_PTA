@@ -7,7 +7,7 @@ This repository contains the **code, models, and datasets** for the paper:
 *AI4X – Accelerate Conference 2026*
 
 📄 Paper: https://openreview.net/forum?id=Bpo4HgB6by
-📄 PDF: https://drive.google.com/file/d/14FwFw048rX4QX9m1_37sWwWtM_pN4-Ba/view?usp=sharing
+📄 PDF: [Download PDF](https://drive.google.com/file/d/14FwFw048rX4QX9m1_37sWwWtM_pN4-Ba/view?usp=sharing)
 
 ---
 
