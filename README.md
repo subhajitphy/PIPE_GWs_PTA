@@ -75,7 +75,6 @@ $$p(\theta \mid x)$$
 
 - Synthetic PTA dataset:
   - ~10 pulsars
-  - Time series length: 400
   - Multiple noise realizations
 - Target parameters:
   - Orbital frequency
