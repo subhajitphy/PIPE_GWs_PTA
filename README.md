@@ -50,7 +50,7 @@ This project introduces a **physics-informed machine learning pipeline** that:
 
 ### Stage 1: Physics-Informed Transformer
 
-- Input: PTA time series (~400 points)
+- Input: PTA time series
 - Patch-based tokenization or CNN stem
 - Positional + physics-informed encodings
 - External-attention Transformer backbone
