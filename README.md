@@ -1,4 +1,4 @@
-# PIPE-GWs-PTA
+# PIPE_GWs_PTA
 **Physics-Informed Transformers + Simulation-Based Inference for Gravitational Waves in PTA Data**
 
 This repository contains the **code, models, and datasets** for the paper:
